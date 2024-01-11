@@ -1,5 +1,6 @@
 # Frontend Mentor - Blog Card Preview solution
 
+
 This is a solution to the [Age Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). 
 
 ## Table of contents
